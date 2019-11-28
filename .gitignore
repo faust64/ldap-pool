@@ -2,6 +2,3 @@ node_modules
 .idea
 *.log
 *.tgz
-dist/*
-!dist/.gitkeep
-
