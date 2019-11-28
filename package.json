@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ORESoftware/ldap-pool#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "ldapjs": "^1.0.2"
+    "ldapjs": "https://github.com/Worteks/node-ldapjs#next-vls-controls"
   },
   "devDependencies": {
     "@types/ldapjs": "^1.0.3",
